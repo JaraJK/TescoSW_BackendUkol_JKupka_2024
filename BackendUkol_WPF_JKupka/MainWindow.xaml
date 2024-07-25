@@ -1,0 +1,47 @@
+﻿<Window x:Class="BackendUkol_WPF_JKupka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BackendUkol_WPF_JKupka"
+        mc:Ignorable="d"
+        Title="Víkendové Prodeje Vozů" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="auto" />
+            <ColumnDefinition Width="20" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="10" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="20" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="3" FontSize="16" 
+                   Text="Prosím, načtěte XMF soubor s patřičnou tabulkou:"/>
+
+        <TextBox x:Name="tbxFileRoute" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3"
+                 FontSize="15" Text=""/>
+        <Button x:Name="btnOpen" Grid.Column="5" Grid.Row="2" MinWidth="100" Content="Procházet"
+                Click="BtnOpen_Click"/>
+        <Button x:Name="btnUse" Grid.Column="6" Grid.Row="2" MinWidth="100" Content="Zpracovat"
+                Click="BtnUse_Click"/>
+
+        <DataGrid x:Name="dtgInputTable" ItemsSource="{Binding}" 
+            Grid.Column="1" Grid.ColumnSpan="1" Grid.Row="4" IsReadOnly="True" />
+
+        <DataGrid x:Name="dtgOutputTable" ItemsSource="{Binding}" 
+            Grid.Column="3" Grid.ColumnSpan="4" Grid.Row="4" IsReadOnly="True" />
+
+
+    </Grid>
+</Window>

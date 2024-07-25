@@ -1,0 +1,15 @@
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\bin\Debug\BackendUkol_WPF_JKupka.exe.config
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\bin\Debug\BackendUkol_WPF_JKupka.exe
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\bin\Debug\BackendUkol_WPF_JKupka.pdb
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.csproj.AssemblyReference.cache
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\MainWindow.g.cs
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\App.g.cs
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka_MarkupCompile.cache
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka_MarkupCompile.lref
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\MainWindow.baml
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.g.resources
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.Properties.Resources.resources
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.csproj.GenerateResource.cache
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.csproj.CoreCompileInputs.cache
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.exe
+D:\Coding\Job_Hunt_2024\TescoSW\BackendUkol_WPF_JKupka\BackendUkol_WPF_JKupka\obj\Debug\BackendUkol_WPF_JKupka.pdb
