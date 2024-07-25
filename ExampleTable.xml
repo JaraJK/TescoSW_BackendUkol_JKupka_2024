@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProdaneVozy>
+  <Auto>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>2.12.2010</DatumProdeje>
+    <Cena>500000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>3.12.2000</DatumProdeje>
+    <Cena>210000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>4.12.2010</DatumProdeje>
+    <Cena>350000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>4.12.2010</DatumProdeje>
+    <Cena>500000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>5.12.2010</DatumProdeje>
+    <Cena>500000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>5.12.2010</DatumProdeje>
+    <Cena>350000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Fabia</NazevModelu>
+    <DatumProdeje>6.12.2010</DatumProdeje>
+    <Cena>350000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Forman</NazevModelu>
+    <DatumProdeje>4.12.2000</DatumProdeje>
+    <Cena>100000</Cena>
+    <DPH>19</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Favorit</NazevModelu>
+    <DatumProdeje>5.12.2000</DatumProdeje>
+    <Cena>80000</Cena>
+    <DPH>19</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Forman</NazevModelu>
+    <DatumProdeje>6.12.2000</DatumProdeje>
+    <Cena>100000</Cena>
+    <DPH>19</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>3.12.2000</DatumProdeje>
+    <Cena>210000</Cena>
+    <DPH>19</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Felicia</NazevModelu>
+    <DatumProdeje>2.12.2000</DatumProdeje>
+    <Cena>210000</Cena>
+    <DPH>19</DPH>
+  </Auto>
+  <Auto>
+    <NazevModelu>Škoda Oktávia</NazevModelu>
+    <DatumProdeje>7.12.2010</DatumProdeje>
+    <Cena>500000</Cena>
+    <DPH>20</DPH>
+  </Auto>
+</ProdaneVozy>
